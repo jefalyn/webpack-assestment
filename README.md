@@ -1,2 +1,1 @@
-# webpack-assestment
-Webpack practical assestment
+# webpack-assessment
